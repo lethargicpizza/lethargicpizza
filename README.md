@@ -10,6 +10,8 @@
 - 🧭 Focused on robust architecture, clear communication, and team stability  
 - 🎓 Currently studying System Development (graduating 2027)  
 - 🧹 Interested in clean code, realistic processes, and collaborative problem-solving
+- 💃 I recharge through physical movement, often Zumba
+
 ---
 
 
