@@ -33,7 +33,7 @@
 **Inventory**
  - 💻 **Languages:** C#, Java, T-SQL, VB.NET
  - 🗄️ **Databases:** SQL Server, MySQL, MongoDB, H2
- - 🛠️ **Tools:** Git, Tortoise, Maven, Docker (basics), IntelliJ, Visual Studio, Management Studio
+ - 🛠️ **Tools:** Git, TortoiseSVN, Maven, Docker (basics), IntelliJ, Visual Studio, Management Studio
  - 🚀 **Methodology:** Agile / SCRUM
 ---
 
