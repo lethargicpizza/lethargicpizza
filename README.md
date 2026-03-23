@@ -30,6 +30,13 @@
 ---
 
 
+**Inventory**
+ - 💻 **Languages:** C#, Java, T-SQL, VB.NET
+ - 🗄️ **Databases:** SQL Server, MySQL, MongoDB, H2
+ - 🛠️ **Tools:** Git, Tortoise, Maven, Docker (basics), IntelliJ, Visual Studio, Management Studio
+ - 🚀 **Methodology:** Agile / SCRUM
+---
+
 **Work Principles**  
 - 🏗️ Focus on robust and maintainable architecture  
 - 🗣️ Clear, stable and predictable communication  
