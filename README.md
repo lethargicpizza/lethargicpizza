@@ -17,7 +17,7 @@
 
 **Projects (selected)**  
 - 🛠️ Public code samples  
-- 📚 School projects in Java (some private due to course policies)  
+- 📚 School projects in Java and C# (some private due to course policies)  
 ---
 
 
